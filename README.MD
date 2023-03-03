@@ -65,5 +65,5 @@ como colaborador del repositorio **masterpidgey-simulacion**
 
 ## Contribución al proyecto first-contributions
 
-Tal y como vimos en la tarea correspondiente y siguiendo los pasos de este proyecto https://github.com/firstcontributions/first-contributions con el apoyo de la guía de DigitalOcean que conocemos
+Tal y como vimos en la tarea correspondiente y siguiendo los pasos de este proyecto https://github.com/maximofernandezriera/first-contributions con el apoyo de la guía de DigitalOcean que conocemos
 https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github contribuye con algún cambio.
