@@ -61,7 +61,7 @@ con la información de varios de dos compañeros de clase:
 - Poner a [github.com/maximofernandezriera](http://github.com/maximofernandezriera)
 como colaborador del repositorio **masterpidgey-simulacion**
 
-# Enunciado ejercicios avanzados de Git, GitHub (Simulación examen parte 2)
+# Contribución guiada a un proyecto (Simulación examen parte 2)
 
 ## Contribución al proyecto first-contributions
 
